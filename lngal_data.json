@@ -289,6 +289,17 @@
           ],
           "tags": ["Non-Custodial", "Merchant"]
         },
+          {
+          "project_name": "Blink",
+          "project_level": "The everyday Bitcoin wallet",
+          "links": [
+            {
+              "type": "Website",
+              "url": "https://www.blink.sv/"
+            }
+          ],
+            "tags": ["Payment Processor"]
+        },
         {
           "project_name": "Tagcash",
           "project_level": "Payments / Services / Wallets",
