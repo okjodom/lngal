@@ -171,13 +171,13 @@
         {
           "project_name": "Wallet of Satoshi",
           "project_level": "Custodial Mobile Wallet",
-          "links": [],
+          "links": "https://www.walletofsatoshi.com",
           "tags": ["Custodial", "User-Friendly", "Mobile"]
         },
         {
           "project_name": "Breez",
           "project_level": "Non-Custodial Mobile Wallet",
-          "links": [],
+          "links": "https://breez.technology/",
           "tags": ["Non-Custodial", "Mobile", "LSP Integration"]
         },
         {
@@ -205,7 +205,7 @@
         {
           "project_name": "Muun",
           "project_level": "Non-Custodial Mobile Wallet",
-          "links": [],
+          "links": "https://muun.com/"
           "tags": ["Non-Custodial", "Submarine Swaps"]
         },
         {
@@ -253,17 +253,6 @@
             }
           ],
           "tags": ["Community-Custodial", "Fiat Integration", "Wallet", "Ecash"]
-        },
-         {
-          "project_name": "Exodus Wallet",
-          "project_level": "Non-Custodial Mobile Wallet",
-          "links": [
-            {
-              "type": "Website",
-              "url": "https://exodus.com/"
-            }
-          ],
-          "tags": ["Self-Custodial", "User-Friendly", "Mobile","Hot-wallet"]
         },
         {
           "project_name": "Zeus Wallet",
