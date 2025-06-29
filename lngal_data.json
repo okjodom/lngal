@@ -171,7 +171,7 @@
         {
           "project_name": "Wallet of Satoshi",
           "project_level": "Custodial Mobile Wallet",
-          "links": [],
+          "links": ["https://www.walletofsatoshi.com/"],
           "tags": ["Custodial", "User-Friendly", "Mobile"]
         },
         {
@@ -211,7 +211,7 @@
         {
           "project_name": "Blue Wallet",
           "project_level": "Hybrid Wallet (Custodial & Non-Custodial options)",
-          "links": [],
+          "links": ["https://bluewallet.io/"],
           "tags": ["Hybrid", "Mobile", "LNDHub"]
         },
         {
