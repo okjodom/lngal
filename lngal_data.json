@@ -205,7 +205,7 @@
         {
           "project_name": "Muun",
           "project_level": "Non-Custodial Mobile Wallet",
-          "links": [],
+          "links": ["https://muun.com/"],
           "tags": ["Non-Custodial", "Submarine Swaps"]
         },
         {
